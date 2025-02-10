@@ -1,0 +1,6 @@
+veriler spss ile analiz edilmiştir.
+baby_kilo düşük:0 normal:1
+sigara içiyor 14, içmiyor 16
+yaş ortalama 26.3
+boy ortalama 164.03
+kilo ortalama 59.85

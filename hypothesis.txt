@@ -1,0 +1,5 @@
+Ho: sigara içme ile bebeğin ağırlığı ilişkili 
+H1: sigara içme ile bebeğin ağırlığı ilişkili değil
+
+p value:0.153 > 0.05 olduğu için H0 RED
+Güven aralığı -0.63 ; 0.10 sıfır içerdiği için anlamsız
