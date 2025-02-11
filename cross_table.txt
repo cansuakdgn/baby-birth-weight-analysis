@@ -1,0 +1,12 @@
+SPSS ile cross table oluşturuldu
+sigara 0 ve ağırlık 0: 10
+sigara 0 ve ağırlık 1: 5
+sigara 1 ve ağırlık 0: 6
+sigara 1 ve ağırlık 1: 9
+
+kikare H0: ilişki var H1: ilişki yok
+p value: 0.143 > 0.05 olduğu için H0 RED
+sigara ile bebek ağırlığı arasında ilişki yoktur.
+
+Odd Ratio: 3 CI: 0.76;13.30
+sigara ile bebek ağırlığı arasında ilişki yoktue. 1 içeriyor

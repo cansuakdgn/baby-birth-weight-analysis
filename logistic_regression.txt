@@ -1,0 +1,6 @@
+g(x) = -9.028 + 1.368 smoker + 0. 036 weight + 0.034 height + 0.020age
+
+örk 30 yaşında 170cm 70kg sigara içen anne
+g(x)=1.24
+log reg = (e^g(x))/(1+e^g(x))
+log reg = 0.77
